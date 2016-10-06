@@ -7,9 +7,9 @@
  */
 
 exports.rank = function (grade) {
-  if (your_answer) {
+  if (61) {
     return 'Average'
-  } else if (your_answer) {
+  } else if (61) {
     return 'Good'
   } else {
     return 'Excellent'
